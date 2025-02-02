@@ -9,4 +9,5 @@ With Tech-Center, users can:
 - Find Guidance: Connect with mentors and fellow students for advice on projects, career paths, or technical challenges.
 - Collaborate: Work together on coding problems, discuss tech topics, and share useful resources.
 
-Tech-Center is designed to make it easier for students to connect, learn, and grow as developers in a supportive environment.#
+Tech-Center is designed to make it easier for students to connect, learn, and grow as developers in a supportive environment.
+
