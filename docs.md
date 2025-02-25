@@ -11,16 +11,13 @@
   - designing db schema
   - admin, user, members (an internal member who will be given all permissiosn except some secret one's like direct access of db)
 
-Building a modern platform like **Tech-Center** requires a well-structured approach, following industry best practices and leveraging the latest technologies. Below is a **complete pathway** to develop the platform, broken into sections, with a proper structure and explanation for each step.
-
 ## **Tech Stack**
 - **Frontend**: React.js (with modern features like hooks, context API, and functional components).  
-- **Backend**: Express.js (Node.js framework) for RESTful APIs or GraphQL.  
-- **Database**: MongoDB (NoSQL) for flexible data storage.  
+- **Backend**: Express.js (Node.js framework) for RESTful APIs.  
+- **Database**: MongoDB for flexible data storage.  
 - **Authentication**: JWT (JSON Web Tokens) or OAuth for secure user login.  
 - **Deployment**: Docker, AWS, or Heroku for hosting.  
-- **Version Control**: Git (GitHub/GitLab/Bitbucket).  
-- **Testing**: Jest (for unit testing), Cypress (for end-to-end testing).  
+- **Version Control**: Git/GitHub.
 
 ---
 
